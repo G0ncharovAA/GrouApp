@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GrouApp</string>
+    <string name="menu_item_home_string">HOME</string>
+    <string name="menu_item_profile_string">PROFILE</string>
+    <string name="base_url">https:\\\\yandex.ru</string>
+    <string name="text_card">"card "</string>
+</resources>
